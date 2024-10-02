@@ -11,7 +11,7 @@ Hi, I'm **Kush Shah**, a passionate Front-End Developer and Full-Stack Web Devel
 ### 🛠️ Technologies & Tools:
 - **Languages**: JavaScript, TypeScript, HTML5, CSS3, SQL
 - **Frontend**: React.js, Tailwind CSS, Redux
-- **Backend**: Node.js, NestJS, Express.js
+- **Backend**: Node.js, NestJS, Express.js, Python, Java
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud**: AWS (S3, EC2, VPC), Firebase
 - **DevOps**: Docker, Terraform, Boto3
