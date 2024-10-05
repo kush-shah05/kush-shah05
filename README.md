@@ -4,7 +4,7 @@
 Hi, I'm **Kush Shah**, a passionate Front-End Developer and Full-Stack Web Developer based in **Canada**. I have a Master’s degree in Computer Engineering from Carleton University, and I'm actively pursuing exciting opportunities in software development, cloud engineering, and DevOps.
 
 ### 🚀 What I'm Working On:
-- 🌐 **Coffee Shop Website**: A modern web application using React.js for the frontend, NestJS for the backend, and PostgreSQL for the database.
+- 🌐 **Coffee Shop Website**: A modern web application using React.js for the front end, NestJS for the backend, and PostgreSQL for the database.
 - 📦 **DevOps Practice**: Deepening my knowledge of Docker, cloud infrastructure (AWS), and automation tools while building real-world projects.
 - 🤖 **Exploring AI**: Leveraging GPT technology in web applications to create smarter, more personalized user experiences.
 
