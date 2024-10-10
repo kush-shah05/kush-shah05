@@ -14,7 +14,8 @@ Hi, I'm **Kush Shah**, a passionate Front-End Developer and Full-Stack Web Devel
 - **Backend**: Node.js, NestJS, Express.js, Python, Java
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud**: AWS (S3, EC2, VPC), Firebase
-- **DevOps**: Docker, Terraform, Boto3
+- **DevOps**: Docker, Terraform, Jenkins, Kubernetes
+- **Monitoring**: Grafana , Prometheus
 - **Others**: Git, GitHub, Figma
 
 ### 📚 Currently Learning:
