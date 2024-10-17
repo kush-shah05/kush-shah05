@@ -4,14 +4,14 @@
 Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based in **Canada**. I have a Master’s degree in Computer Engineering from Carleton University, and I'm actively pursuing exciting opportunities in software development, cloud engineering, and DevOps.
 
 ### 🚀 What I'm Working On:
-- 🌐 **Coffee Shop Website**: A modern web application using React.js for the front end, NestJS for the backend, and PostgreSQL for the database.
+- 🌐 **NeflixGPT Production**: In progress towards creating a CICD pipeline and focusing on containerization using Kubernetes clusters.
 - 📦 **DevOps Practice**: Deepening my knowledge of Docker, cloud infrastructure (AWS), and automation tools while building real-world projects.
 - 🤖 **Exploring AI**: Leveraging GPT technology in web applications to create smarter, more personalized user experiences.
 
 ### 🛠️ Technologies & Tools:
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3, SQL
+- **Languages**: JavaScript, Python, Java, SQL
 - **Frontend**: React.js, Tailwind CSS, Redux
-- **Backend**: Node.js, NestJS, Express.js, Python, Java
+- **Backend**: Node.js, NestJS, Express.js, Python, Django
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud**: AWS (S3, EC2, VPC), Firebase
 - **DevOps**: Docker, Terraform, Jenkins, Kubernetes
