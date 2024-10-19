@@ -14,7 +14,7 @@ Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based i
 - **Backend**: Node.js, NestJS, Express.js, Python, Django
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud ☁️**: AWS (S3, EC2, VPC), Firebase 
-- **DevOps**: Docker 🐬, Terraform, Jenkins 👨‍✈️, Kubernetes 🕸, Linux 🐧
+- **DevOps**: Docker 🐬, Terraform, Jenkins 👨‍💼, Kubernetes 🕸, Linux 🐧
 - **Monitoring**: Grafana , Prometheus
 - **Others**: Git, GitHub, Figma
 
