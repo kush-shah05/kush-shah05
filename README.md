@@ -11,7 +11,7 @@ Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based i
 ### 🛠️ Technologies & Tools:
 - **Languages**: JavaScript, Python, Java, SQL
 - **Frontend**: React.js, Tailwind CSS, Redux
-- **Backend**: Node.js, NestJS, Express.js, Python, Django
+- **Backend**: Node.js, NestJS, Express.js, Python, Django.
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud ☁️**: AWS (S3, EC2, VPC), Firebase 
 - **DevOps**: Docker 🐬, Terraform, Jenkins 👨‍💼, Kubernetes 🕸, Linux 🐧
