@@ -1,4 +1,3 @@
-
 # Welcome to Kush Shah's GitHub! 👋
 
 Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based in **Canada**. I have a Master’s degree in Computer Engineering from Carleton University, and I'm actively pursuing exciting opportunities in software development, cloud engineering, and DevOps.
@@ -14,7 +13,7 @@ Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based i
 - **Backend**: Node.js, NestJS, Express.js, Python, Django.
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud ☁️**: AWS (CloudFormation, EC2, EKS, Lambda, Redshift, VPC, IAM, S3, Security Hub, Glue), Firebase 
-- **DevOps**: Docker 🐬, Terraform, Jenkins 👨‍💼, Kubernetes 🕸, Linux 🐧, GitLab.
+- **DevOps**: Docker 🐬, Terraform, Ansible, Jenkins 👨‍💼, Kubernetes 🕸, Linux 🐧, GitLab.
 - **Monitoring**: Grafana , Prometheus
 - **Others**: Git, GitHub, Figma.
 
