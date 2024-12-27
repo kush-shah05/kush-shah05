@@ -14,7 +14,7 @@ Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based i
 - **Databases**: PostgreSQL, MongoDB.
 - **Cloud ☁️**: AWS (CloudFormation, EC2, EKS, Lambda, Redshift, VPC, IAM, S3, Security Hub, Glue), Firebase.
 - **DevOps**: Docker 🐬, Terraform, Ansible, Jenkins 👨‍💼, Kubernetes 🕸, Linux 🐧, GitLab.
-- **Monitoring**: Grafana , Prometheus
+- **Monitoring**: Grafana , Prometheus.
 - **Others**: Git, GitHub, Figma.
 
 ### 📚 Currently Learning:
