@@ -8,7 +8,7 @@ Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based i
 - 🤖 **Exploring AI**: Leveraging GPT technology in web applications to create smarter, more personalized user experiences.
 
 ### 🛠️ Technologies & Tools:
-- **Languages**: JavaScript, Python, Java, SQL.
+- **Languages**: JavaScript, Python, Java, SQL, GO.
 - **Frontend**: React.js, Tailwind CSS, Redux.
 - **Backend**: Node.js, NestJS, Express.js, Python, Django.
 - **Databases**: PostgreSQL, MongoDB.
