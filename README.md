@@ -27,7 +27,7 @@ Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based i
 - Continue enhancing my frontend development skills while mastering the backend.
 
 ### 🌟 Fun Facts:
-- I'm fluent in **English** and learning **Spanish**! 🇪🇸
+- I'm fluent in **English** and learning **Spanish**! 🇪🇸.
 - I love **problem-solving** and enjoy working on complex challenges in tech.
 - When I'm not coding, you can find me exploring new **technologies**, on the sports field 🏏⚽, or experimenting with cloud infrastructures.
 
