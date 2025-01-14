@@ -1,6 +1,6 @@
 # Welcome to Kush Shah's GitHub! 👋
 
-Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based in **Canada**. I have a Master’s degree in Computer Engineering from Carleton University, and I'm actively pursuing exciting opportunities in software development, cloud engineering, and DevOps.
+Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based in **Canada**. I have Master’s degree in Computer Engineering from Carleton University, and I'm actively pursuing exciting opportunities in software development, cloud engineering, and DevOps.
 
 ### 🚀 What I'm Working On:
 - 🌐 **NeflixGPT Production**: In progress towards creating a CICD pipeline using Jenkins and focusing on containerization using Kubernetes clusters.
