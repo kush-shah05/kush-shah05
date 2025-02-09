@@ -33,4 +33,4 @@ Hi, I'm **Kush Shah**, a passionate DevOps engineer and Cloud enthusiast based i
 
 ### 🔗 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/kush-shah-2170701a9/)
-- 📧 Email: kushshah652@gmail.com
+- 📧 Email: kushshah652@gmail.com.
